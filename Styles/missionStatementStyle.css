@@ -68,11 +68,3 @@ p{
   color: white;
 }
 
-/*Restructure the menue for devices with screens less than 600px(phones)*/
-@media screen and (max-width:600px){
-  .topnav a{
-	float: none;
-    width: 100%;	
-	  
-  }
-}
