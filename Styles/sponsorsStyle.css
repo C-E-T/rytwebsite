@@ -1,6 +1,12 @@
 /*Style sheet for Sponsors.html*/
 /*Written by Cody Tersigni*/
 
+/*Styles for all*/
+*{
+  box-sizing:border-box;	
+	
+}
+
 /*Style for the body*/
 body {
   margin: 0;
@@ -58,4 +64,13 @@ p{
 .topnav a.active {
   background-color: #4CAF50;
   color: white;
+}
+
+/*Restructure the menue for devices with screens less than 600px(phones)*/
+@media screen and (max-width:600px){
+  .topnav a{
+	float: none;
+    width: 100%;	
+	  
+  }
 }
