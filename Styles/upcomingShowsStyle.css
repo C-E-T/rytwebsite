@@ -43,6 +43,10 @@ table, th, td{
   border-collapse: collapse;
 }
 
+.tableimg{
+  width: 100px;
+  height: 100px;
+}
 
 /*Navigation bar*/
 /* Add a black background color to the top navigation */
