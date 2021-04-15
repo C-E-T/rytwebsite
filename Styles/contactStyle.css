@@ -1,57 +1,37 @@
 /*Style sheet for contact.html*/
 /*Written by Cody Tersigni*/
 
+*{
+  text-align: center;
+}
 .emailimg{
-  position: relative;
   width: 150px;
   height: 150px;
-  left:430px;
-  top: -50px;
 }
 
 .emailtext{
-  position: relative;
-  left: 650px;
-  top: -165px;
 }
 
 .facebookimg{
-  position: relative;
   width: 200px;
   height: 150px;
-  left: 400px;
 }
 
 .facebooktext{
-  position: relative;
-  left:650px;
-  top: -100px;
 }
 
 .instaimg{
-  position: relative;
   width:150px;
   height: 150px;
-  left: 435px;
-  top: -75px;
 }
 
 .instatext{
-  position: relative;
-  left: 650px;
-  top: -190px;
 }
 
 .phoneimg{
-  position: relative;
   width:150px;
   height: 150px;
-  left: 435px;
-  top: -100px;
 }
 
 .phonetext{
-  position: relative;
-  left:650px;
-  top:-250px;
 }
